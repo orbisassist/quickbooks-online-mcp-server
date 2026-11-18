@@ -54,11 +54,7 @@ npm run build
 
 ### Configuration
 
-Copy the template `.env.example` to `.env` in the root directory and fill in your values:
-
-```bash
-cp .env.example .env
-```
+Create a `.env` file in the root directory with your values:
 
 ```env
 QUICKBOOKS_CLIENT_ID=your_client_id
